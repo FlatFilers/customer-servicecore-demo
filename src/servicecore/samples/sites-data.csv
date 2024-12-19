@@ -1,0 +1,16 @@
+Site ID,External ID,Site Name,Address,City,State,ZIP Code,Notes
+SITE-001,SC-001,Main Office,"123 Main Street, Suite 100",New York,NY,10001,Primary location for Acme Corp
+SITE-002,SC-001,Warehouse,"456 Industrial Pkwy",Brooklyn,NY,11201,Storage and distribution center
+SITE-003,SC-002,Tech Solutions HQ,456 Park Avenue,Boston,MA,02108,Main office and development center
+SITE-004,SC-003,Global Inc Tower,"789 Oak Road, Floor 3",Chicago,IL,60601,Corporate headquarters
+SITE-005,SC-003,Research Lab,321 Innovation Drive,Evanston,IL,60201,R&D facility
+SITE-006,SC-006,Cloud Systems Main,"567 Maple Drive, Room 200",Seattle,WA,98101,Primary office location
+SITE-007,SC-007,Network Center,890 Cedar Lane,Miami,FL,33101,Network operations center
+SITE-008,SC-009,Power Co Plant,"456 Birch Road, Unit 5",Portland,OR,97201,Main power generation facility
+SITE-009,SC-009,Distribution Hub,789 Energy Way,Salem,OR,97301,Power distribution center
+SITE-010,SC-011,Tech Corp Campus,123 Lake Drive,Atlanta,GA,30301,Main campus and training center
+SITE-011,SC-012,Systems LLC HQ,"456 River Road, Floor 2",Houston,TX,77001,Corporate headquarters
+SITE-012,SC-014,Data Systems Office,321 Valley Lane,Philadelphia,PA,19101,Main office and data center
+SITE-013,SC-014,Backup Facility,555 Backup Drive,Pittsburgh,PA,15201,Disaster recovery site
+SITE-014,SC-015,Cloud Corp Main,"567 Hill Street, Suite 300",San Diego,CA,92101,Primary office location
+SITE-015,SC-015,Development Center,789 Tech Boulevard,Irvine,CA,92618,Software development center 

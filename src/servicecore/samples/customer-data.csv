@@ -1,0 +1,16 @@
+External ID,Customer Name,Company,Address,City,State,ZIP Code,Notes,Phone,Phone Ext,Email,Invoice Delivery Method
+SC-001,John Smith,Acme Corp,"123 Main Street, Suite 100",New York,NY,10001,Regular customer,123-456-7890,123,john.smith@acme.com,email
+SC-002,Sarah Johnson,Tech Solutions,456 Park Avenue,Boston,MA,02108,VIP client,617-555-1234,,sarah@techsolutions.com,print
+SC-003,Michael Brown,Global Inc,"789 Oak Road, Floor 3",Chicago,IL,60601,New account,312-555-9876,456,michael.brown@global.com,email
+SC-004,a,,,,,TX,,214-555-8765,,alice.jones@test.com,email
+SC-005,Robert Wilson,Data Corp,321 Pine Street,San Francisco,CA,94105,Invalid ZIP,415-555-4321,,robert@datacorp,print
+SC-006,Emily Davis,Cloud Systems,"567 Maple Drive, Room 200",Seattle,WA,98101,Valid data,425-555-7890,,emily.davis@cloud.com,email
+SC-007,David Miller,Network LLC,890 Cedar Lane,Miami,FL,33101,Complete record,305-555-6543,789,david@network.com,print
+SC-008,Lisa Taylor,,234 Elm Street,Denver,CO,80201,Optional company omitted,720-555-8901,,lisa.taylor@lucasarts..com,email
+SC-009,James Anderson,Power Co,"456 Birch Road, Unit 5",Portland,OR,97201,Valid ZIP+4,503-555-2345,901,james@power.co,print
+SC-010,Patricia Martinez,Solutions Inc,789 Walnut Ave,Austin,TX,787o1,Invalid ZIP (contains letter),512-555-6789,,patricia@solutions.com,print
+SC-011,William Thompson,Tech Corp,123 Lake Drive,Atlanta,GA,30301,Valid record,404-555-1111,234,william.t@techcorp.com,email
+SC-012,Karen White,Systems LLC,"456 River Road, Floor 2",Houston,TX,77001,Test Notes,713-555-2222,,karen.white@systems.com,print
+SC-013,Thomas Lee,,789 Mountain View,Phoenix,AZ,85001,Optional fields empty,602-555-3333,,thomas@lee.com,email
+SC-014,Jennifer Clark,Data Systems,321 Valley Lane,Philadelphia,PA,19101,Valid data,215-555-4444,567,jennifer.clark@datasystems.com,print
+SC-015,Richard Baker,Cloud Corp,"567 Hill Street, Suite 300",San Diego,CA,92101,Email is required for email delivery method,619-555-5555,,,email
